@@ -27,7 +27,7 @@ Fortran version::
   cd ./src/fortran/
   ./stokes_static_fortran
 
-The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
+The results can be visualised by running `visualiseStokesStatic.cmgui <./src/fortran/visualiseStokesStatic.cmgui>`_ with the `Cmgui visualiser <http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
 
 
 Prerequisites
