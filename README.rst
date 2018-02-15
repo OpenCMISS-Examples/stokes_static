@@ -25,7 +25,7 @@ Running the example
 Fortran version::
 
   cd ./src/fortran/
-  ./stokes_static
+  ./stokes_static_fortran
 
 Python version::
 
