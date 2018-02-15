@@ -27,14 +27,6 @@ Fortran version::
   cd ./src/fortran/
   ./stokes_static_fortran
 
-Python version::
-
-  source  <path-to-opencmiss>/install/.../.../virtualenvironments/oclibs_pyXY_release/bin/activate
-  cd ./src/python/
-  python stokes_static.py
-
-where the XY in the path are the Python major and minor versions respectively.
-
 The results can be visualised by running `visualise.com <./src/fortran/visualise.com>`_ with the `Cmgui visualiser <http://physiomeproject.org/software/opencmiss/cmgui/download>`_.
 
 
